@@ -37,13 +37,10 @@ E-Health Equity website is a platform that provides various healthcare services 
 ### Screenshots :
 ![healthcare1](https://github.com/kriti8303/Microsoft-Virtual-Internship-Project/assets/86372176/4c3b2a73-6af4-4839-8b0d-aa8328382a07)
 
-![healthcare2](https://github.com/kriti8303/Microsoft-Virtual-Internship-Project/assets/86372176/281b7651-1c1f-4c13-8f81-85143c58bb9b)
-
 ![Screenshot (37)](https://user-images.githubusercontent.com/93502957/236379219-255cc6e9-e57a-414b-a683-dd423034bb65.png)
 
 ![healthcare2](https://github.com/kriti8303/Microsoft-Virtual-Internship-Project/assets/86372176/281b7651-1c1f-4c13-8f81-85143c58bb9b)
 
-![Screenshot (38)](https://user-images.githubusercontent.com/93502957/236379238-8fda38a9-e57f-4694-bad9-6b023c3d2006.png)
 
 ### Healthbot Screenshots:
 ![healthcare3](https://github.com/kriti8303/Microsoft-Virtual-Internship-Project/assets/86372176/06979faa-5b11-4b9b-8f75-f718b7c8ab7f)
