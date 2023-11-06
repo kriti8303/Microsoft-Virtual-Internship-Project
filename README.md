@@ -4,7 +4,7 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 # [Medpill Healthcare Website with Healthbot](https://white-moss-0ef554e00.3.azurestaticapps.net)
 
-Project Link :https://white-moss-0ef554e00.3.azurestaticapps.net
+Project Link :[https://white-moss-0ef554e00.3.azurestaticapps.net](https://blue-tree-047057810.4.azurestaticapps.net/)
 
 Demo Video :https://vimeo.com/824150188/c6b69c74dd?share=copy
 
