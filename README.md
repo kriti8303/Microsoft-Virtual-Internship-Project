@@ -6,7 +6,7 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 Project Link :[[https://blue-tree-047057810.4.azurestaticapps.net/](https://blue-tree-047057810.4.azurestaticapps.net/)]
 
-Demo Video :https://vimeo.com/824150188/c6b69c74dd?share=copy
+Demo Video :[[https://drive.google.com/file/d/1waGrtiFSxJNHyglKuhXfe12Sd8o-4j8z/view?usp=sharing](https://drive.google.com/file/d/1waGrtiFSxJNHyglKuhXfe12Sd8o-4j8z/view?usp=sharing)]
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
